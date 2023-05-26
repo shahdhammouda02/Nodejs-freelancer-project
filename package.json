@@ -1,0 +1,22 @@
+{
+  "name": "freelancer",
+  "version": "1.0.0",
+  "description": "freelancer",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "shahd",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "exceljs": "^4.3.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.0.13",
+    "simple-node-logger": "^21.8.12"
+  }
+}
